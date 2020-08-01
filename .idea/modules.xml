@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/leetcode4r.iml" filepath="$PROJECT_DIR$/.idea/leetcode4r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy/list/revert_list/revert_list.iml" filepath="$PROJECT_DIR$/easy/list/revert_list/revert_list.iml" />
+    </modules>
+  </component>
+</project>
